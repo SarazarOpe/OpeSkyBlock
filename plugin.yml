@@ -1,0 +1,43 @@
+name: OpeSkyBlock
+api: 5.0.0
+upgrade: soon
+main: SarazarOpe\OpeSkyBlock\Main
+version: 2.1.9
+update: SarazarOpe
+author: SarazarOpe
+github: https://github.com/SarazarOpe
+#*// Manage permissions and their contents by SarazarOpe \\*#
+
+permissions:
+  osb.command:
+    default: true
+  osb.bybass:
+    default: op
+  osb.delete:
+    default: op
+  osb.teleport:
+    default: true
+  osb.create:
+    default: true
+  osb.top:
+    default: true
+  osb.info:
+    default: true
+  osb.settings:
+    default: true
+  osb.settings.setwelcome:
+    default: true
+  osb.settings.setwelcome:
+    default: true
+  osb.settings.setspawn:
+    default: true
+  osb.settings.friends:
+    default: true
+  osb.settings.ban:
+    default: true
+  osb.settings.lock:
+    default: true
+  osb.settings.kick:
+    default: true
+  osb.settings.pvp:
+    default: true
